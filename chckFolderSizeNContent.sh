@@ -1,3 +1,6 @@
+#DevOpsSwissKnife - chckFolderSizeNContent.sh V1
+#Author: walid.daboubi@gmail.com
+
 i=0
 while [ TRUE ]; do
   clear
